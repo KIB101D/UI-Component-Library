@@ -1,8 +1,17 @@
-# React + Vite
+# React Component Showcase
+A focused project demonstrating clean architecture, component decomposition, and reusable UI patterns in React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+Modular Structure: Logic split into specialized, reusable components.
 
-Currently, two official plugins are available:
+Composition: Advanced use of children props for flexible layouts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+UI Kit: Dynamic Button component with multiple variants, sizes, and states.
+
+🛠️ Setup
+   ```bash
+npm install
+   ```
+ ```bash
+npm run dev
+   ```
